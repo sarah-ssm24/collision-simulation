@@ -22,7 +22,7 @@ Program menampilkan ratusan lingkaran yang bergerak secara acak dan saling berin
 2. **Grid-Based Quadtree**: Membagi layar menjadi beberapa sel untuk mengurangi jumlah pengecekan, sehingga jauh lebih cepat dan efisien.
 - Ruang permainan dibagi menjadi sel berukuran **120 × 120 px**.  
 - Objek hanya dicek dengan objek lain yang berada di **sel yang sama**.  
-- Secara signifikan mengurangi jumlah pengecekan collision.
+- Secara signifikan mengurangi jumlah pengecekan collision. <br>
   <img width="489" height="805" alt="image" src="https://github.com/user-attachments/assets/0abe9b21-01e9-4a6b-89a1-5234d3dda46d" />
 
 ### Visualisasi Real-Time<br>
